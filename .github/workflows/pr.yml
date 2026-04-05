@@ -1,5 +1,5 @@
 
-name: Create Pull Request and Notifyown
+name: Create Pull Request and Notifyrepeat
 
 on:
   push:
